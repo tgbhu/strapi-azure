@@ -1,0 +1,28 @@
+{
+  "kind": "collectionType",
+  "collectionName": "valamis",
+  "info": {
+    "singularName": "valami",
+    "pluralName": "valamis",
+    "displayName": "Valami"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "kep": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}
