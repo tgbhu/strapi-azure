@@ -1,7 +1,4 @@
-https://github.com/tgbhu/strapi-azure/workflows/main_strap-birdie/badge.svg
-![image](https://github.com/tgbhu/strapi-azure/workflows/main_strap-birdie.yml/badge.svg)
-
-
+[![Azure Static Web Apps CI/CD](https://github.com/tgbhu/strapi-azure/actions/workflows/azure-static-web-apps-jolly-ocean-0a7eea103.yml/badge.svg)](https://github.com/tgbhu/strapi-azure/actions/workflows/azure-static-web-apps-jolly-ocean-0a7eea103.yml)
 
 # 🚀 Getting started with Strapi
 
