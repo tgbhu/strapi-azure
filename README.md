@@ -1,5 +1,5 @@
 https://github.com/tgbhu/strapi-azure/workflows/main_strap-birdie/badge.svg
-![image](https://github.com/tgbhu/strapi-azure/workflows/main_strap-birdie/badge.svg)
+![image](https://github.com/tgbhu/strapi-azure/workflows/main_strap-birdie.yml/badge.svg)
 
 
 
