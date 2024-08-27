@@ -1,3 +1,8 @@
+https://github.com/tgbhu/strapi-azure/workflows/main_strap-birdie/badge.svg
+![image](https://github.com/tgbhu/strapi-azure/workflows/main_strap-birdie/badge.svg)
+
+
+
 # 🚀 Getting started with Strapi
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/dev-docs/cli) (CLI) which lets you scaffold and manage your project in seconds.
